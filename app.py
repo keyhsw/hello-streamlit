@@ -10,8 +10,6 @@ def main():
         Streamlit is an open-source app framework built specifically for
         Machine Learning and Data Science projects.
 
-        **👈 Select a demo from the dropdown on the left** to see some examples
-        of what Streamlit can do!
 
         ### Want to learn more?
 
