@@ -4,7 +4,6 @@ def main():
     import streamlit as st
 
     st.write("# Welcome to Streamlit! 👋")
-    st.sidebar.success("Select a demo above.")
 
     st.markdown(
         """
@@ -20,6 +19,7 @@ def main():
         - Jump into our [documentation](https://docs.streamlit.io)
         - Ask a question in our [community
           forums](https://discuss.streamlit.io)
+        - For more information on deploying Streamlit apps on the OpenXLab. [Official documentation]()
     """
     )
 
