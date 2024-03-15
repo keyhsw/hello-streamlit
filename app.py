@@ -19,7 +19,7 @@ def main():
         - Jump into our [documentation](https://docs.streamlit.io)
         - Ask a question in our [community
           forums](https://discuss.streamlit.io)
-        - For more information on deploying Streamlit apps on the OpenXLab. [Official documentation]()
+        - For more information on deploying Streamlit apps on the OpenXLab. [Official documentation](https://openxlab.org.cn/docs/en/apps/Streamlit%E5%BA%94%E7%94%A8.html)
     """
     )
 
